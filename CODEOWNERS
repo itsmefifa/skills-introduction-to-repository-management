@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @itsmefifa
+/src/backend/database.py      @itsmefifa
+/src/backend/routers/auth.py  @itsmefifa
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @itsmefifa
